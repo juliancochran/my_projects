@@ -1,4 +1,4 @@
-consumer_key = 'RUw2gUROglc2tOzw6Zna4O15c'
-consumer_secret = 'UuQfhCijIhMw2ndjcd5rGxEpbxKLL0BFYCvlU2alK2eXzWNhUl'
-access_token = '304613716-y5nxn4vR4nwFTgxIwtr3zF3rXZ1T9xQs5E0Rs0eg'
-access_secret = 'gxQcDRyOLjaWiYWzGRWzwcnSvgeZsaf1R25YxLOSFmN4R'
+consumer_key = 'EDIT_YOUR_FILE'
+consumer_secret = 'EDIT_YOUR_FILE'
+access_token = 'EDIT_YOUR_FILE'
+access_secret = 'EDIT_YOUR_FILE'
